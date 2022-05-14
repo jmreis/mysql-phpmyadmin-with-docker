@@ -1,9 +1,9 @@
-# postgresql-with-docker
+# mysql-phpmyadmin-with-docker
 
 <!---These are examples. See https://shields.io for others or to customize this shield set. You might want to include dependencies, project status and license information here--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jmreis/postgresql-with-docker?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/jmreis/postgresql-with-docker?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/jmreis/mysql-phpmyadmin-with-docker?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/jmreis/mysql-phpmyadmin-with-docker?style=for-the-badge)
 <!--![GitHub forks](https://img.shields.io/github/forks/jmreis/hacker-new-scraper?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jmreis/hacker-new-scraper?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jmreis/hacker-new-scraper?style=for-the-badge)-->
