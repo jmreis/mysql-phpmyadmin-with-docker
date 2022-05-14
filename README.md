@@ -71,14 +71,16 @@ docker-compose up --build -d
 ![project.gif](img/phpmyadmin.png)
 
 3- For stop the services use:
-    ```bash
-    docker-compose stop
-    ```
+
+```bash
+docker-compose stop
+```
 
 4- For start the service use:
-    ```bash
-    docker-composer start
-    ```
+
+```bash
+docker-composer start
+```
 
 ## 📫 Contributing
 <!---If your README is long or if you have any specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
